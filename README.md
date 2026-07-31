@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0055-jump-game) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
