@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0055-jump-game) |
 ## Linked List
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
