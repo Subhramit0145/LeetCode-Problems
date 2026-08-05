@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
