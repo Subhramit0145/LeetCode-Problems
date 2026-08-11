@@ -69,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
@@ -113,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
