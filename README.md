@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
