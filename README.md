@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 ## Union-Find
 |  |
