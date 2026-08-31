@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0057-insert-interval) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 ## Manacher
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
