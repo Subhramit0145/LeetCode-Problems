@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
 ## Sliding Window
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0130-surrounded-regions) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 ## Manacher
