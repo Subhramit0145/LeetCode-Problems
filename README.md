@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0086-partition-list) |
