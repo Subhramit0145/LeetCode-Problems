@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
