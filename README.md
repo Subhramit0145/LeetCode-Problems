@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0133-clone-graph) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
