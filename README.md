@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 ## Sliding Window
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
