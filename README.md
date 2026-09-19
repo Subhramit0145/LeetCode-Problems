@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0190-reverse-bits) |
 ## Algorithm X
 |  |
 | ------- |
