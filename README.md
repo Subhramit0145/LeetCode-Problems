@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
+| [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 ## Union-Find
 |  |
 | ------- |
