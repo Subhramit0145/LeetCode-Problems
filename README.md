@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0306-additive-number) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 ## Sliding Window
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
+| [0306-additive-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0306-additive-number) |
 ## Manacher
 |  |
 | ------- |
