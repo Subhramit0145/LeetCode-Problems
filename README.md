@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
+| [0390-elimination-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0390-elimination-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
+| [0390-elimination-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0390-elimination-game) |
 ## Union-Find
 |  |
 | ------- |
