@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0221-maximal-square](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0994-rotting-oranges) |
