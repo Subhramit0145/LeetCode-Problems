@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0221-maximal-square](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0576-out-of-boundary-paths) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Union-Find
 |  |
 | ------- |
@@ -337,4 +341,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0394-decode-string) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
