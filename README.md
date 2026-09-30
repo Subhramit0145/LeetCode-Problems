@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0576-out-of-boundary-paths) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -358,4 +360,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
