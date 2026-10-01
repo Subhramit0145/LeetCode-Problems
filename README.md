@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
