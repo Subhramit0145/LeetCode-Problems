@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0227-basic-calculator-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0306-additive-number) |
 ## Manacher
 |  |
