@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0761-special-binary-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0761-special-binary-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0394-decode-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Minimax
 |  |
 | ------- |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0923-3sum-with-multiplicity) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
