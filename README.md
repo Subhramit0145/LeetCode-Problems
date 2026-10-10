@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0761-special-binary-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0761-special-binary-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0394-decode-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Minimax
 |  |
 | ------- |
@@ -402,4 +405,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
