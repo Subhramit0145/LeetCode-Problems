@@ -78,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0761-special-binary-string) |
 | [0923-3sum-with-multiplicity](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0923-3sum-with-multiplicity) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
