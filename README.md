@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
