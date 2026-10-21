@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0310-minimum-height-trees](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
