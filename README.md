@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0761-special-binary-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Array
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Union-Find
 |  |
 | ------- |
