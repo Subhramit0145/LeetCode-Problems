@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0576-out-of-boundary-paths) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Linked List
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Algorithm X
 |  |
 | ------- |
@@ -442,4 +447,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Bitmask
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Flow Network
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 <!---LeetCode Topics End-->
