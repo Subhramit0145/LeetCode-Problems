@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Algorithm X
 |  |
 | ------- |
@@ -467,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
