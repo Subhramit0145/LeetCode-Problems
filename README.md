@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0576-out-of-boundary-paths) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Linked List
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Topological Sort
 |  |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Algorithm X
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Successive Shortest Path Algorithm
 |  |
@@ -462,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matching (Graph)
 |  |
 | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Minimum-Cost Flow
 |  |
@@ -479,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Perfect Matching
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 <!---LeetCode Topics End-->
