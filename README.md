@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0394-decode-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
