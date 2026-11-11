@@ -511,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
