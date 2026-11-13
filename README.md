@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0923-3sum-with-multiplicity) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0923-3sum-with-multiplicity](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0923-3sum-with-multiplicity) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bracket Sequences
 |  |
 | ------- |
