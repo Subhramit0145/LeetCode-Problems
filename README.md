@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0923-3sum-with-multiplicity) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0455-assign-cookies](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0306-additive-number) |
+| [0491-non-decreasing-subsequences](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0491-non-decreasing-subsequences) |
 ## Manacher
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [0491-non-decreasing-subsequences](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
