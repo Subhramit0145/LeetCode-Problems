@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0133-clone-graph) |
+| [0208-implement-trie-prefix-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0491-non-decreasing-subsequences) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 ## Knapsack Problem
 |  |
@@ -524,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0184-department-highest-salary) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
