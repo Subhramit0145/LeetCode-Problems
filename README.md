@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0904-fruit-into-baskets](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0923-3sum-with-multiplicity) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhramit0145/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Matrix
 |  |
